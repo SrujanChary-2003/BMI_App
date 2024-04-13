@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user_weight">Enter Weight</string>
+    <string name="user_heightF">Enter Height in(Feets)</string>
+    <string name="user_heightI">Enter Height in(Inches)</string>
+    <string name="Heading">Body Mass Index(BMI) Calculator</string>
+    <string name="Result_btn">Calculate BMI</string>
+    <string name="Result">Result</string>
+
+
+</resources>
